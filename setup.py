@@ -3,19 +3,19 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="py-trello",
-    version="0.19.1a1",
+    name="py-trello-api",
+    version="0.20.0",
 
-    description='Python wrapper around the Trello API',
+    description='Python wrapper around the Trello API (Provisional version)',
     long_description=open('README.rst').read(),
-    author='Richard Kolkovich',
-    author_email='richard@sigil.org',
-    url='https://trello.com/board/py-trello/4f145d87b2f9f15d6d027b53',
-    download_url='https://github.com/sarumont/py-trello',
+    author='Konano',
+    author_email='nanoapezlk@gmail.com',
+    url='https://github.com/Konano/py-trello-api',
+    download_url='https://github.com/Konano/py-trello-api',
     keywords='python',
     license='BSD License',
     classifiers=[
-        "Development Status :: 4 - Beta",
+            'Development Status :: 4 - Beta',
             'Intended Audience :: Developers',
             'License :: OSI Approved :: BSD License',
             'Operating System :: OS Independent',
