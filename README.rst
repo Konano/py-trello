@@ -12,7 +12,7 @@ Install
 
 ::
 
-    pip install py-trello
+    pip install py-trello-api==0.20.0
 
 Usage
 =====
